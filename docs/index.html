@@ -1,9 +1,16 @@
+---
+layout: default
+title: About me
+---
+<h1>{{ "Hello World!" | downcase }}</h1>
+
 <!doctype html>
 <html>
   <head>
-    <title>Jacob Erlikhman</title>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
   </head>
   <body>
-    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+    {{ content }}
   </body>
 </html>
