@@ -1,5 +1,6 @@
 
 theme: minima
+title: Jacob Erlikhman
 defaults:
   - scope:
       path: "assets/137b/worksheets"
