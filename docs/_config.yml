@@ -2,6 +2,6 @@
 theme: minima
 defaults:
   - scope:
-      path: "assets/137b"
+      path: "assets/137b/worksheets"
     values:
       137b: true
