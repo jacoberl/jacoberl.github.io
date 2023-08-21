@@ -1,2 +1,7 @@
 
 theme: minima
+defaults:
+  - scope:
+      path: "assets/137b"
+    values:
+      137b: true
