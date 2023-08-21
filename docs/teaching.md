@@ -24,6 +24,6 @@ Worksheets:
 {% increment counter %}
 {% assign worksheet_files = site.static_files | where: "137b", true %}
 {% for mypdf in worksheet_files %}
- *[Week {{counter}}](https://jacoberl.github.io/{{mypdf.path}})
+ * [Week {{counter}}](https://jacoberl.github.io/{{mypdf.path}})
  {% increment counter %}
 {% endfor %}
