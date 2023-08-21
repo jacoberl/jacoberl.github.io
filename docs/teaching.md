@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 # Physics 110A Fall 2023
-
+* Week 2
 
 # Physics 105 Spring 2023
 Worksheets:
@@ -28,3 +28,5 @@ Worksheets:
 {% endif %}
  {% assign counter = counter | plus:1%}
 {% endfor %}
+
+Solutions available upon request.
