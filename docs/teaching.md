@@ -3,6 +3,9 @@ layout: default
 title: Teaching
 ---
 
+# Physics 110A Fall 2023
+
+
 # Physics 105 Spring 2023
 Worksheets:
 * [Week 2](https://jacoberl.github.io/assets/105/week%202%20worksheet.pdf)
@@ -10,6 +13,7 @@ Worksheets:
 * [Week 7](https://jacoberl.github.io/assets/105/week%207%20worksheet.pdf)
 * [Week 9](https://jacoberl.github.io/assets/105/week%209%20worksheet.pdf)
 * [Week 15](https://jacoberl.github.io/assets/105/week%2015%20worksheet.pdf)
+  
 Solutions available upon request.
 
 
@@ -17,5 +21,5 @@ Solutions available upon request.
 Worksheets:
 {% assign worksheet_files = site.static_files | where: "137b", true %}
 {% for mypdf in worksheet_files %}
- {{*[Week mypdf](https://jacoberl.github.io/myimage.path) }}
+ *[Week mypdf](https://jacoberl.github.io/{{myimage.path}})
 {% endfor %}
