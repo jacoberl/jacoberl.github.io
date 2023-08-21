@@ -19,11 +19,9 @@ Solutions available upon request.
 
 # Physics 137B Fall 2022
 Worksheets:
-{% increment counter %}
-{% increment counter %}
-{% increment counter %}
+{%assign counter=2%}
 {% assign worksheet_files = site.static_files | where: "137b", true %}
 {% for mypdf in worksheet_files %}
  * [Week {{counter}}](https://jacoberl.github.io/{{mypdf.path}})
- {% increment counter %}
+ {% assign counter=counter + 1 %}
 {% endfor %}
