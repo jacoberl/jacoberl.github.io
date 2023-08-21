@@ -29,4 +29,8 @@ Worksheets:
  {% assign counter = counter | plus:1%}
 {% endfor %}
 
+Review Sessions:
+* [2nd midterm](https://jacoberl.github.io/assets/137b/review/final%20review%20session%20problems.pdf)
+* [Final]((https://jacoberl.github.io/assets/137b/review/review%20session%20problems%202.pdf)
+
 Solutions available upon request.
