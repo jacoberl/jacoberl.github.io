@@ -19,9 +19,12 @@ Solutions available upon request.
 
 # Physics 137B Fall 2022
 Worksheets:
-{%assign counter=2%}
+{%assign counter=1%}
 {% assign worksheet_files = site.static_files | where: "137b", true %}
 {% for mypdf in worksheet_files %}
  * [Week {{counter}}](https://jacoberl.github.io/{{mypdf.path}})
+{% if counter == 2 or counter == 6%}
+{% assign counter = counter | plus:1%}
+{% endif %}
  {% assign counter = counter | plus:1%}
 {% endfor %}
