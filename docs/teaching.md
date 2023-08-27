@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 # Physics 110A Fall 2023
-* Week 2
+* [Week 2](https://jacoberl.github.io/assets/110a/week-2-worksheet.pdf)
 
 # Physics 105 Spring 2023
 Worksheets:
