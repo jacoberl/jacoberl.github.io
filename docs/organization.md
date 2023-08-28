@@ -13,4 +13,4 @@ If you'd like to join remotely, [here's the Zoom link.](https://berkeley.zoom.us
 * 8/10: Discussed Illusie's cotangent complex and did some simple calculations with it. Figured out the relation between Grothendieck-Riemann-Roch and virtual fundamental classes. This still corresponds to Section 1 of the survey.
 * 8/17: Formulation of deformation theory as a functor out of a category of local Artin rings following [Schlessinger](https://www.jstor.org/stable/1994967). Also Section 1 of the survey.
 * 8/24: Discussed model categories, focusing on the main examples of topological spaces and chain complexes. This is Section 2 of the survey. Resources: [Mazel-Gee's Notes](https://etale.site/teaching/s23-128/math-128-s23-lecture-notes.pdf) and [Sophie Morel's Notes](https://web.math.princeton.edu/~smorel/notes540.pdf).
-* 8/29: Plan to discuss infinity categories and the simplicial homotopy coherent nerve construction.
+* 8/29: Plan to discuss infinity categories and the homotopy coherent nerve construction.
