@@ -6,6 +6,7 @@ title: Teaching
 # Physics 110A Fall 2023
 * [Week 2](https://jacoberl.github.io/assets/110a/week-2-worksheet.pdf)
 * Week 3: We used the same worksheet as last week.
+* [Week 4](https://jacoberl.github.io/assets/110a/week-4-worksheet.pdf)
 
 ## Solutions
 * [Week 2](https://jacoberl.github.io/assets/110a/week-2-worksheet-solutions.pdf)
