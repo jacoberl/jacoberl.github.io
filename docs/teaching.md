@@ -11,6 +11,7 @@ title: Teaching
 ## Solutions
 * [Week 2](https://jacoberl.github.io/assets/110a/week-2-worksheet-solutions.pdf)
 * [Week 4](https://jacoberl.github.io/assets/110a/week-4-worksheet-solutions.pdf)
+  
 We will continue with Exercises 3 and 4 next week, so solutions will be posted then. There may or may not be another exercise (which will be different from 5).
 
 ## Resources
