@@ -10,6 +10,8 @@ title: Teaching
 
 ## Solutions
 * [Week 2](https://jacoberl.github.io/assets/110a/week-2-worksheet-solutions.pdf)
+* [Week 4](https://jacoberl.github.io/assets/110a/week-4-worksheet-solutions.pdf)
+We will continue with Exercises 3 and 4 next week, so solutions will be posted then. There may or may not be another exercise (which will be different from 5).
 
 ## Resources
 * Week 2: A couple of students asked for recommendations for books on the mathematical background for E&M. I don't have any explicitly on div, grad, and curl; however, I can recommend <em>Calculus on Manifolds</em> by Michael Spivak. This book is accessible with just a knowledge of mutlivariable calculus, it's short (only ~50 pages), and it will take you (rigorously) through the material necessary to understand the general Stokes' theorem in any dimension. This material won't be <em>explicitly</em> helpful for the course, but it will definitely help you fill in some gaps afterwards. For example, it will teach you about differential forms, and these can be used to very succinctly express Maxwell's equations, as well as generalize them to arbtirary relativistic gauge theories.
