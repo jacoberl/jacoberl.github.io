@@ -15,4 +15,6 @@ If you'd like to join remotely, send me an e-mail so that I open Zoom. [Here's t
 * 8/24: Discussed model categories, focusing on the main examples of topological spaces and chain complexes. This is Section 2 of the survey. Resources: [Mazel-Gee's Notes](https://etale.site/teaching/s23-128/math-128-s23-lecture-notes.pdf) and [Sophie Morel's Notes](https://web.math.princeton.edu/~smorel/notes540.pdf).
 * 8/29: Discussed construction of quasi-categoies via the horn-filling property, i.e. via weak Kan complexes. Also discussed Kan complexes. Supplemental to section 2 of the survey.
 * 9/5: Gave some examples of infinity categories via Top and Ch. Discussed homotopy pullbacks and pushouts in these categories, and how to pass from Top to Ch via the chains functor.
-* 9/12: Plan to read Sections 2.1 and 2.2 of the survey and discuss examples of basic calculations in DAG.
+* 9/12: Discussed stacks, descent, BG as a (truncated) stack, Cech nerves, prestacks, and derived schemes. Section 2 of the survey.
+* 9/19: Discussed quasi-coherent shaves on prestacks, the cotangent complex of a prestack, tangent spaces/complexes (on locally almost of finite type prestacks), and geometric n-stacks, also known as Artin n-stacks. Section 3.1 of the survey.
+* 9/26: Whatever the winner of the roulette decides! The plan is to further discuss <em>some topic</em> from Section 3 of the survey.
