@@ -8,6 +8,7 @@ title: Teaching
 * Week 3: We used the same worksheet as last week.
 * [Week 4](https://jacoberl.github.io/assets/110a/week-4-worksheet.pdf)
 * [Week 5](https://jacoberl.github.io/assets/110a/week-5-worksheet.pdf)
+* [Week 6](https://jacoberl.github.io/assets/110a/week-6-worksheet.pdf)
 
 ## Solutions
 * [Week 2](https://jacoberl.github.io/assets/110a/week-2-worksheet-solutions.pdf)
