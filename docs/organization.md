@@ -17,4 +17,6 @@ If you'd like to join remotely, send me an e-mail so that I open Zoom. [Here's t
 * 9/5: Gave some examples of infinity categories via Top and Ch. Discussed homotopy pullbacks and pushouts in these categories, and how to pass from Top to Ch via the chains functor.
 * 9/12: Discussed stacks, descent, BG as a (truncated) stack, Cech nerves, prestacks, and derived schemes. Section 2 of the survey.
 * 9/19: Discussed quasi-coherent shaves on prestacks, the cotangent complex of a prestack, tangent spaces/complexes (on locally almost of finite type prestacks), and geometric n-stacks, also known as Artin n-stacks. Section 3.1 of the survey.
-* 9/26: Whatever **Yuji** decides! The plan is to further discuss <em>some topic</em> from Section 3 of the survey.
+* 9/26: Yuji led us through a calculation of the self-intersection of a point in the affine line, a calculation of the blowup of the affine plane at the origin along with a calculation of the derived fiber, a general construction of the cotangent complex for categories with abelian group objects, and a discussion of non-flat base change in classical algebraic geometry and how it relates to the derived setting. References: [Cotangent complex](https://sma.epfl.ch/~orecchia/docs/DHAG_expose_9.pdf), [Base change](https://mathoverflow.net/questions/402746/what-s-the-obstruction-to-base-change), [Blowups](https://arxiv.org/abs/1802.05702).
+* 10/3: Jacob is away.
+* 10/10: **Justin** is speaking about _something else_ from Section 3 of the survey!
