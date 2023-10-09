@@ -6,3 +6,5 @@ defaults:
       path: "assets/137b/worksheets"
     values:
       137b: true
+plugins:
+  - jekyll-katex
