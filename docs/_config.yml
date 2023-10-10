@@ -8,3 +8,6 @@ defaults:
       137b: true
 kramdown:
   math_engine: katex
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
