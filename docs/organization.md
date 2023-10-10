@@ -6,7 +6,7 @@ katex: True
 
 # Derived Algebraic Geometry Student Seminar Fall 2023
 
-Our current plan is to read [Toen's survey](https://arxiv.org/abs/1401.1044). We are currently meeting in Evans 740 on Tuesdays at 9 a.m. All are welcome; please e-mail me to be added to the mailing list.
+Our current plan is to read [Toen's survey](https://arxiv.org/abs/1401.1044). We are currently meeting in Evans 762 on Tuesdays at 2 p.m. All are welcome; please e-mail me to be added to the mailing list.
 
 If you'd like to join remotely, send me an e-mail so that I open Zoom. [Here's the Zoom link.](https://berkeley.zoom.us/j/8271009900).
 
