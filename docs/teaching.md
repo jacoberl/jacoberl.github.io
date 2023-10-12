@@ -40,8 +40,8 @@ Worksheets:
 {% if counter == 6%}
 {% assign counter = counter | plus:1%}
 {% endif %}
- * [Week {{counter}}](https://jacoberl.github.io/{{mypdf.path}})
- {% assign counter = counter | plus:1%}
+* [Week {{counter}}](https://jacoberl.github.io/{{mypdf.path}})
+{% assign counter = counter | plus:1%}
 {% endfor %}
 
 Review Sessions:
