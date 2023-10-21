@@ -14,7 +14,9 @@ title: Teaching
 
 ## Review Sessions
 [Midterm Review](https://jacoberl.github.io/assets/110a/review-problems-1.pdf)
+
 [Solutions to Problems 1-3](https://jacoberl.github.io/assets/110a/review-problems-1-solutions.pdf)
+
 Solutions to Problems 4-6 will be posted this weekend.
 
 ## Solutions
