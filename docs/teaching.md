@@ -26,6 +26,8 @@ title: Teaching
 * [Week 6](https://jacoberl.github.io/assets/110a/week-6-worksheet-solutions.pdf)
 * [Week 8](https://jacoberl.github.io/assets/110a/week-8-worksheet-solutions.pdf)
 * [Week 9](https://jacoberl.github.io/assets/110a/week-9-worksheet-solutions.pdf)
+* [Week 10](https://jacoberl.github.io/assets/110a/week-10-worksheet-solutions.pdf)
+* [Week 11](https://jacoberl.github.io/assets/110a/week-11-worksheet-solutions.pdf)
 
 
 
