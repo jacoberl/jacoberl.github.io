@@ -14,6 +14,7 @@ title: Teaching
 * [Week 10](https://jacoberl.github.io/assets/110a/week-10-worksheet.pdf)
 * [Week 11](https://jacoberl.github.io/assets/110a/week-11-worksheet.pdf)
 * [Week 12](https://jacoberl.github.io/assets/110a/week-12-worksheet.pdf)
+* [Week 13](https://jacoberl.github.io/assets/110a/week-13-worksheet.pdf)
 
 ## Review Sessions
 [Midterm Review](https://jacoberl.github.io/assets/110a/review-problems-1.pdf)
