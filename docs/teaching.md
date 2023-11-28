@@ -18,6 +18,7 @@ title: Teaching
 
 ## Review Sessions
 [Midterm Review](https://jacoberl.github.io/assets/110a/review-problems-1.pdf)
+[Final Review](https://jacoberl.github.io/assets/110a/review-problems-2.pdf)
 
 [Solutions](https://jacoberl.github.io/assets/110a/review-problems-1-solutions.pdf)
 
