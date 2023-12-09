@@ -26,6 +26,8 @@ title: Teaching
 
 [Final Review Solutions](https://jacoberl.github.io/assets/110a/review-problems-2-solutions.pdf)
 
+**Update:** I woke up today with a solution to the removed Exercise 2. Since the radius of the metal ball is much less than the thickness of the plates, we can use the second term of Equation 3.76 to calculate E, and then calculate the energy stored in the fields by integrating r from the radius of the ball "a" to half the plate thickness, say "d/2". This is the "extra" energy which the ball imparts to the capacitor, so that mv^2/2 must be equal to this.
+
 
 
 ## Solutions
