@@ -24,6 +24,8 @@ title: Teaching
 
 [Final Review](https://jacoberl.github.io/assets/110a/review-problems-2.pdf)
 
+[Final Review Solutions](https://jacoberl.github.io/assets/110a/review-problems-2-solutions.pdf)
+
 
 
 ## Solutions
