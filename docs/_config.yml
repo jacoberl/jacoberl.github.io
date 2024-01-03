@@ -6,6 +6,11 @@ defaults:
       path: "assets/137b/worksheets"
     values:
       137b: true
+header_pages:
+  - index.html
+  - organization.md
+  - teaching.md
+  - writings.md
 kramdown:
   math_engine: katex
 plugins:
