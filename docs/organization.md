@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Organization
-katex: True
-math: True
 ---
 
 # Derived Algebraic Geometry Student Seminar Fall 2023
