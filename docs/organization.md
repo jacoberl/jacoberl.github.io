@@ -9,6 +9,8 @@ Our current plan is to read [Toen's survey](https://arxiv.org/abs/1401.1044). We
 
 If you'd like to join remotely, send me an e-mail so that I open Zoom. [Here's the Zoom link](https://berkeley.zoom.us/j/8271009900).
 
+$$\text{math test }x=5$$
+
 * 8/3: Formulated the plan and discussed how to compute homotopy (co)fibers in the category of chain complexes (with the projective model structure).
 * 8/10: Discussed Illusie's cotangent complex and did some simple calculations with it. Figured out the relation between Grothendieck-Riemann-Roch and virtual fundamental classes. This still corresponds to Section 1 of the survey.
 * 8/17: Formulation of deformation theory as a functor out of a category of local Artin rings following [Schlessinger](https://www.jstor.org/stable/1994967). Also Section 1 of the survey.
