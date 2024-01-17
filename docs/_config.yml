@@ -11,8 +11,6 @@ header_pages:
   - organization.md
   - teaching.md
   - writings.md
-kramdown:
-  math_engine: katex
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
