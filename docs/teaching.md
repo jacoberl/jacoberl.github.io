@@ -4,6 +4,8 @@ title: Teaching
 ---
 # Teaching
 
+[Physics 137B Fall 2024](https://jacoberl.github.io/teaching/137b-F24.html)
+
 [Physics 137B Spring 2024](https://jacoberl.github.io/teaching/137b-Sp24.html)
 
 [Physics 110A Fall 2023](https://jacoberl.github.io/teaching/110a-F23.html)
