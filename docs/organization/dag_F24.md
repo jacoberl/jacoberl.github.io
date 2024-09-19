@@ -10,5 +10,5 @@ If you'd like to join remotely, send me an e-mail so that I open Zoom. [Here's t
 
 | Date    | Speaker | Title | Abstract|Notes|
 | -------- | ------- | -------| ------|----|
-| 9/17  | John Nolan | A brief overview of DAG and shifted symplectic structures| I'll begin by giving a (very quick) summary of derived algebraic geometry and why new / prospective members might find it useful. After that, I'll give a partial definition of shifted symplectic structures, and I'll discuss some contexts in which shifted symplectic geometry plays a significant role. This talk will be relatively non-technical, and hopefully future talks will fill in the (important) details I omit.|[PDF](jacoberl.github.io/assets/dag-seminar/DAG Sep 17, 2024.pdf)
+| 9/17  | John Nolan | A brief overview of DAG and shifted symplectic structures| I'll begin by giving a (very quick) summary of derived algebraic geometry and why new / prospective members might find it useful. After that, I'll give a partial definition of shifted symplectic structures, and I'll discuss some contexts in which shifted symplectic geometry plays a significant role. This talk will be relatively non-technical, and hopefully future talks will fill in the (important) details I omit.|[PDF](https://jacoberl.github.io/assets/dag-seminar/DAG Sep 17, 2024.pdf)
 |9/24 | Justin Wu | | | |
