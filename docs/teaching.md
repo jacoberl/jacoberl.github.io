@@ -3,6 +3,7 @@ layout: default
 title: Teaching
 ---
 # Teaching
+[Physics 139 Spring 2025](https://jacoberl.github.io/teaching/139-Sp25.html)
 
 [Physics 137B Fall 2024](https://jacoberl.github.io/teaching/137b-F24.html)
 
