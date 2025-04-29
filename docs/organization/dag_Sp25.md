@@ -18,3 +18,4 @@ If you'd like to join remotely, send me an e-mail so that I open Zoom. [Here's t
 |4/7| Jacob Erlikhman | IndCoh as a Crystal of Categories II | Continuation of previous week's talk. | |
 |4/22| Jacob Erlikhman | $$HH_*(\mathsf{IndCoh}_{\mathscr{N}}(X))$$ | I will describe how Beraldo-Lin-Reeves are able to show that Hochschild homology of IndCoh(X) for quasi-smooth stacks X is global sections of the dualizing sheaf on the free loop space of Sing(X) by considering B-model type TQFTs associated to the category of module categories over HC(X)-mod (so one category level up from HC(X)-module categories). There is also a variant with singular support. | |
 |4/29| Jacob Erlikhman | $$HH_*(\mathsf{IndCoh}_{\mathscr{N}}(X))$$ II| Continuation of previous week's talk. | |
+|5/6| Wyatt Reeves | TBA | TBA | |
