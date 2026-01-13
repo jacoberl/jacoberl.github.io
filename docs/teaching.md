@@ -17,4 +17,4 @@ title: Teaching
 
 [Physics 105 Spring 2023](https://jacoberl.github.io/teaching/105-Sp23.html)
 
-[Physics 137b Fall 2022](https://jacoberl.github.io/teaching/137b-F22.html)
+[Physics 137B Fall 2022](https://jacoberl.github.io/teaching/137b-F22.html)
