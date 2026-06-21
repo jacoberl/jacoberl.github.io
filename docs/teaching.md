@@ -3,6 +3,8 @@ layout: default
 title: Teaching
 ---
 # Teaching
+[Physics 137A Summer 2026](https://jacoberl.github.io/teaching/137a-Su26.html)
+
 [Physics 110A Spring 2026](https://jacoberl.github.io/teaching/110a-Sp26.html)
 
 [Physics 137B Fall 2025](https://jacoberl.github.io/teaching/137b-F25.html)
