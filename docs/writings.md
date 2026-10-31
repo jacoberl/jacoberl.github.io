@@ -4,9 +4,9 @@ title: Writings
 ---
 # Writings
 ## Research
-"An equivalence between reduced K-motives and potent D-modules," joint with Kendric Schefers. *In preparation.*
+"Reduced K-motives are potent D-modules," joint with Kendric Schefers. *In preparation.*
 
-Paper "A six-functor formalism for potent D-modules," joint with Kendric Schefers. Coming soon!
+Paper "A six-functor formalism for potent D-modules," joint with Kendric Schefers. *In preparation.*
 
 [Paper](https://arxiv.org/abs/2610.32003v1) "Kashiwara's lemma for potent D-modules," joint with Kendric Schefers. We show that for a richer theory of D-modules on stacks, known as "potent D-modules," Kashiwara's Lemma still holds. This is a "genuine" version of Kashiwara's Lemma (in the sense of genuine equivariant homotopy theory), since it can be understood as a decompletion at equivariant parameters, much like how K-theory is a decompletion of equivariant cohomology. This will be used in upcoming work to show that a version of Hodge/de Rham realization for (certain nice classes of) stacks is an equivalence.
 
